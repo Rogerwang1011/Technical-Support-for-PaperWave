@@ -6,8 +6,7 @@ If you have any questions, issues, or feedback, we’re here to help.
 
 Contact Support
 If you need assistance, please contact us by email:
-📧 Email: tonndy@gmail.com
-(or your Apple Developer contact email)
+📧 Email: tonndy@gmail.com / wangxinyu43172@126.com
 We usually respond within 1–2 business days.
 
 Common Support Topics
