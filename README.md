@@ -20,7 +20,7 @@ You can contact us regarding:
 
 Privacy
 SmartScore does not require user accounts and does not collect personal data.
-You can read our full Privacy Policy here: 👉 https://github.com/Rogerwang1011/Privacy-Policy-for-SmartScore
+You can read our full Privacy Policy here: 👉 https://github.com/Rogerwang1011/Privacy-Policy-for-PaperWave
 
 Feedback
 We value feedback from musicians.
